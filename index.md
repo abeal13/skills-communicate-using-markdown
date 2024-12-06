@@ -17,6 +17,11 @@ var myVar = "Hello, world!";
 print("Hello, Flowers!")
 ```
 
+#### Task List 
+
+- [ ] Turn on Github Pages
+- [ ] Outline My Portfolio
+- [ ] Introduce myself to the world 
 
 
 
